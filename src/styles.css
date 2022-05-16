@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  width: 100%;
+}
+
+ul li {
+  display: inline;
+  margin: 50px;
+}
+
+.link {
+  color: black;
+  cursor: pointer;
+}
